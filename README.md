@@ -30,9 +30,9 @@ Planifions un chat zoom | Meet ! Envoyez-moi un e-mail à okonowil@gmail.com ou 
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Okono Mehitang Wilfried Loïc LinkedIn Profile" height="30" width="30">
   </a>
 
-  <!--a href="https://stackoverflow.com/users/16539954/jaures-beinjamin-fotsing">
-    <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="Jaures Beinjamin Fotsing Stack Overflow Profile" height="30" width="30">
-  </a-->
+  <a href="https://stackoverflow.com/users/19355464/okono-wilfried">
+    <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="Okono Wilfried Stack Overflow Profile" height="30" width="30">
+  </a>
 
   <!--a href="https://meta.stackexchange.com/users/1101231/jaures-beinjamin-fotsing">
     <img src="https://www.vectorlogo.zone/logos/stackexchange/stackexchange-icon.svg" alt="Jaures Beinjamin Fotsing Stack Exchange Profile" height="30" width="30">
