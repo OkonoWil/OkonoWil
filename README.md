@@ -59,9 +59,32 @@ Planifions un chat zoom | Meet ! Envoyez-moi un e-mail à okonowil@gmail.com ou 
 
 <p align="center">Des outils que j'utilise au quotidien, ou avec lesquels j'ai utilisé ou travaillé (beaucoup ou un peu) par le passé</p>
 <p align="center">
-  <a href="https://stackshare.io/beinjamin/my-stack">
+  <!--a href="https://stackshare.io/beinjamin/my-stack">
     <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="Jaures Beinjamin Fotsing :: StackShare" />
-  </a>
+  </a-->
+  <table>
+  <tr>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-128/html5-40-1175193.png" width="200"></td>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-128/css3-11-1175239.png" width="200"></td>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-128/react-1175109.png" width="200"></td>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-128/javascript-1-225993.png" width="200"></td>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-128/typescript-1-1175078.png" width="200"></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-128/php-99-1175127.png" width="200"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-128/python-20-1175115.png" width="200"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-128/django-13-1175187.png" width="200"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-128/java-22-225997.png" width="200"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-128/c-57-1175191.png" width="200"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-128/c-4-226082.png" width="200"></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-128/git-18-1175219.png" width="200"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-128/mysql-4-226026.png" width="200"></td>
+    
+  </tr>
+
+</table>
 </p>
 
 <h2 align="center">Statistiques Github </h2>
