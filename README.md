@@ -12,7 +12,7 @@ Depuis plus de 1 ans, j'ai développé mes compétences techniques  en travailla
 
 
 Front-End :  React JS, JavaSript, HTML5, CSS3.<br>
-Backend :  Laravel ,SpringBoot MySQL.<br>
+Backend :  C#, ASP.Net, PHP, MySQL.<br>
 Outils et méthodes : GitHub.<br>
 Système d’exploitation : Ubuntu, Kali, Windows.<br>
 Professionnel : programmation en binôme à distance, travail d'équipe.
@@ -71,12 +71,11 @@ Planifions un chat zoom | Meet ! Envoyez-moi un e-mail à okonowil@gmail.com ou 
       <td><img src="https://cdn.iconscout.com/icon/free/png-128/typescript-1-1175078.png" width="200"></td>
   </tr>
   <tr>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-128/csharp-1175240.png" width="200"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/php-99-1175127.png" width="200"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/python-20-1175115.png" width="200"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/django-13-1175187.png" width="200"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/java-22-225997.png" width="200"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/c-57-1175191.png" width="200"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/c-4-226082.png" width="200"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-128/java-22-225997.png" width="200"></td
   </tr>
   <tr>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/git-18-1175219.png" width="200"></td>
