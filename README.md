@@ -72,7 +72,7 @@ Planifions un chat zoom | Meet ! Envoyez-moi un e-mail à okonowil@gmail.com ou 
   </tr>
   <tr>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/php-99-1175127.png" width="200"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/laravel-2038872.png" width="200"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-128/laravel-2038872-1720085.png" width="200"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/csharp-1175240.png" width="200"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/python-20-1175115.png" width="200"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/java-22-225997.png" width="200"></td
