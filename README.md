@@ -8,7 +8,7 @@ Je suis Wilfried Okono , développeur Web Full-stack Junior et étudiant à l'un
 
 J'adore coder, voyager et Jouer Jeux Video.
 
-Depuis plus de 1 ans, je développe mes compétences techniques  en travaillant sur des projets Front et Back-end en utilisant HTML/CSS, JavaScript, React JS, C#, Laravel et MySQL  ainsi que d'autres frameworks pour construire de vrais projets mondiaux grâce à la programmation en binôme.
+Depuis plus de 2 ans, je développe mes compétences techniques  en travaillant sur des projets Front et Back-end en utilisant HTML/CSS, JavaScript, React JS, C#, Laravel et MySQL  ainsi que d'autres frameworks pour construire de vrais projets mondiaux grâce à la programmation en binôme.
 
 
 Front-End :  Vue JS, JavaSript, HTML5, CSS3.<br>
