@@ -1,4 +1,4 @@
-[![OkonoWil](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
+<!-- [![OkonoWil](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]() -->
 
 #
 
