@@ -1,90 +1,149 @@
-# Salut !!!!!, 👋 Bienvenue 😊
+[![OkonoWil](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
 
-<h2 align="center">À propos de moi</h2>
+#
 
-Bonjour les amis.
+# Hi 👋
 
-Je suis Wilfried Okono , développeur Web Full-stack Junior et étudiant à l'université de Douala & Linkedin Learning.
+![OkonoWil](https://readme-typing-svg.herokuapp.com?font=Inter&color=3A9CDF&size=30&weight=700&lines=Call+me+Okono+Wilfried;OkonoWil)
 
-J'adore coder, voyager et Jouer Jeux Video.
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
-Depuis plus de 2 ans, je développe mes compétences techniques  en travaillant sur des projets Front et Back-end en utilisant HTML/CSS, JavaScript, React JS, C#, Laravel et MySQL  ainsi que d'autres frameworks pour construire de vrais projets mondiaux grâce à la programmation en binôme.
+- 🔭 I’m currently working on [Tmr-Shop website](https://www.udlab.online/)
 
+- 🌱 I’m currently learning **Dart, Vue, Laravel**
 
-Front-End :  Vue JS, JavaSript, HTML5, CSS3.<br>
-Backend :  PHP, MySQL, Laravel, C#.<br>
-Outils et méthodes : GitHub, GitLab.<br>
-Système d’exploitation : Ubuntu, Kali, Windows.<br>
-Professionnel : programmation en binôme à distance, travail d'équipe.
+- 👯 I’m looking to collaborate on solving problems with software
 
+- 👨‍💻 My Personal WebSite
 
+- 💬 Ask me about ** Laravel, APIs, PHP **
 
-Planifions un chat zoom | Meet ! Envoyez-moi un e-mail à okonowil@gmail.com ou okonowil@outlook.fr
+- 📫 How to reach me <a href="mailto:okonowil@gmail.com">okonowil@gmail.com</a>
 
+- ⚡ From Cameroon
 
-<h2 align="center">Vous pouvez me joindre sur: </h2>
+- ⚡ <em>"_build your futur in technology_"</em></li>
 
-<p align="center">
+## My favorite tools and technologies ⚙️
 
-  <a href="https://www.linkedin.com/in/wilfried-lo%C3%AFc-okono-mehitang-11a380218/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Okono Mehitang Wilfried Loïc LinkedIn Profile" height="30" width="30">
-  </a>
+> Tools and technologies that I have worked with and am interested in
 
-  <a href="https://stackoverflow.com/users/19355464/okono-wilfried">
-    <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="Okono Wilfried Stack Overflow Profile" height="30" width="30">
-  </a>
-
-  <!--a href="https://meta.stackexchange.com/users/1101231/jaures-beinjamin-fotsing">
-    <img src="https://www.vectorlogo.zone/logos/stackexchange/stackexchange-icon.svg" alt="Jaures Beinjamin Fotsing Stack Exchange Profile" height="30" width="30">
-  </a-->
-
-  <a href="https://www.hackerrank.com/okonowilfried">
-    <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="Okono WilfriedJaures Beinjamin Fotsing Hackerrank Profile" height="30" width="30">
-  </a>
-  
-  <a href="https://leetcode.com/MrWil/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="Okono Wilfried Leetcode Profile" height="30" width="30">
-  </a>
-  
-  <!--a href="https://medium.com/@jauresbeinjamin">
-    <img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="@jauresbeinjamin Medium Profile" height="30" width="30">
-  </a-->
-  
-  <!--a href="https://twitter.com/Jaures_2020">
-    <img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" alt="Jaures Beinjamin Fotsing Twitter Profile" height="30" width="30">
-  </a-->
-</p>
-
-<h2 align="center">My stack :man_technologist:</h2>
-
-<p align="center">Des outils que j'utilise au quotidien, ou avec lesquels j'ai utilisé ou travaillé (beaucoup ou un peu) par le passé</p>
-<p align="center">
-  <!--a href="https://stackshare.io/beinjamin/my-stack">
-    <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="Jaures Beinjamin Fotsing :: StackShare" />
-  </a-->
-  <table>
-  <tr>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-128/html5-40-1175193.png" width="200"></td>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-128/css3-11-1175239.png" width="200"></td>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-128/react-1175109.png" width="200"></td>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-128/javascript-1-225993.png" width="200"></td>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-128/typescript-1-1175078.png" width="200"></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/php-99-1175127.png" width="200"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/laravel-2038872-1720085.png" width="200"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/csharp-1175240.png" width="200"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/python-20-1175115.png" width="200"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/java-22-225997.png" width="200"></td
-  </tr>
-  <tr>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/git-18-1175219.png" width="200"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/mysql-4-226026.png" width="200"></td>
-    
-  </tr>
-
+<table align="center">
+<tr>
+<td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br>Javascript
+    </td>
+    <td align="center" width="96">
+      <a href="#vuejs">
+        <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="48" height="48" alt="Vuejs" />
+      </a>
+      <br>Vue JS
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="HTML" />
+      <br>Dart
+    </td>
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="HTML" />
+      <br>Flutter
+    </td>
+</tr>
+<tr>
+<td align="center" width="96">
+      <a href="#nuxtjs">
+        <img src="https://i.ibb.co/LzmYpDX/146-1466902-php-logo-png-transparent-php-logo-png-png-removebg-preview.png" width="48" height="48" alt="PHP" />
+      </a>
+      <br>PHP
+    </td>
+    <td align="center" width="96">
+      <a href="#laravel">
+        <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="48" height="48" alt="Laravel" />
+      </a>
+      <br>Laravel
+    </td>
+    <td align="center" width="96">
+        <a href="#livewire">
+            <img src="https://i0.wp.com/laravel-livewire.com/img/twitter.png" width="48" height="48"
+                alt="livewire" />
+        </a>
+        <br>Livewire
+    </td>
+    <td align="center" width="96">
+        <a href="#alpinejs">
+            <img src="https://seeklogo.com/images/A/alpine-js-logo-21F4169EAB-seeklogo.com.png" width="48"
+                height="48" alt="alpinejs" />
+        </a>
+        <br>Alpine JS
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="mysql" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
+      <br>Rest
+    </td>
+</tr>
+<tr>
+<td align="center" width="96">
+      <a href="#git" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
+    </td>
+    <td align="center" width="96">
+        <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width="48" height="48" alt="GitHub" />
+      <br>Github
+    </td>
+    <td align="center"  width="96">
+        <img src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" width="48" height="48" alt="GitLab" />
+      <br>GitLab
+    </td>
+<td align="center"  width="96">
+      <a href="#vscode">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="48" height="48" alt="Jamstack" />
+      </a>
+      <br>VS Code
+    </td>
+    <td align="center" width="96">
+        <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width="48" height="48" alt="Postman" />
+      <br>Postman
+    </td>
+ <td align="center" width="96">
+      <a href="#ubuntu" >
+        <img src="https://seeklogo.com/images/U/ubuntu-logo-8FDEC6A07B-seeklogo.com.png" width="48" height="48" alt="ubuntu" />
+      </a>
+      <br>Ubuntu
+    </td>
+     <td align="center" width="96">
+      <a href="#digitalocean">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/DigitalOcean_logo.svg" width="48" height="48" alt="Digital Ocean" />
+      </a>
+      <br>Digital Ocean
+    </td>
+      
+</tr>
 </table>
-</p>
 
 <h2 align="center">Statistiques Github </h2>
 
@@ -99,7 +158,7 @@ Planifions un chat zoom | Meet ! Envoyez-moi un e-mail à okonowil@gmail.com ou 
 <p align="center"><img src="https://tenor.com/view/silicon-valley-gif-5518465.gif" alt="" height="300" width="500"></p>
 
 <h2 align="center">GitHub Activity Graph</h2>
-<!-- https://github.com/beinjamin/github-readme-activity-graph -->
-<a href="https://github.com/OkonoWil/OkonoWil"><img alt="beinjamin's activity graph" src="https://activity-graph.herokuapp.com/graph?username=OkonoWil&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a>
+
+[![OkonoWil's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=OkonoWil&bg_color=0d1117&color=c9c9c9&line=4c779e&point=a8e5ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br />
