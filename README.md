@@ -24,6 +24,9 @@
 
 - ⚡ <em>"_build your futur in technology_"</em></li>
 
+
+[![wakatime](https://wakatime.com/badge/user/b702d51b-71db-4fcd-8568-9432bc144ae7.svg)](https://wakatime.com/@b702d51b-71db-4fcd-8568-9432bc144ae7)
+
 ## My favorite tools and technologies ⚙️
 
 > Tools and technologies that I have worked with and am interested in
