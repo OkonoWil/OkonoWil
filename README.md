@@ -6,6 +6,14 @@
 
 ![OkonoWil](https://readme-typing-svg.herokuapp.com?font=Inter&color=3A9CDF&size=30&weight=700&lines=Call+me+Okono+Wilfried;OkonoWil)
 
+
+
+<a href="https://github.com/OkonoWil/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=OkonoWil">
+</a>
+<a href="https://github.com/OkonoWil?tab=followers"><img src="https://img.shields.io/github/followers/OkonoWil?label=Followers&style=social" alt="GitHub Badge"></a>   
+        
+[![wakatime](https://wakatime.com/badge/user/b702d51b-71db-4fcd-8568-9432bc144ae7.svg)](https://wakatime.com/@b702d51b-71db-4fcd-8568-9432bc144ae7)
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
 - 🔭 I’m currently working on [Tmr-Shop website](https://www.udlab.online/)
@@ -25,7 +33,7 @@
 - ⚡ <em>"_build your futur in technology_"</em></li>
 
 
-[![wakatime](https://wakatime.com/badge/user/b702d51b-71db-4fcd-8568-9432bc144ae7.svg)](https://wakatime.com/@b702d51b-71db-4fcd-8568-9432bc144ae7)
+
 
 ## My favorite tools and technologies ⚙️
 
