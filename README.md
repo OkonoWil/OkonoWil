@@ -18,7 +18,7 @@
 
 - 🔭 I’m currently working on [Afrika Lyrics](https://www.afrikalyrics.com/)
 
-- 🌱 I’m currently learning **Dart, Vue, Laravel**
+- 🌱 I’m currently learning **Flutter, Vue, Laravel**
 
 - 👯 I’m looking to collaborate on solving problems with software
 
