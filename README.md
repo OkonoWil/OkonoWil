@@ -160,16 +160,16 @@
 
 <h4 align="center">Langage:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OkonoWil&count_private=true&langs_count=10&theme=radical&layout=compact" alt="OkonoWil :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OkonoWil&langs_count=10&theme=radical&layout=compact" alt="OkonoWil :: Top Langs" /></p>
 
 <h4 align="center">Statistiques du profil: </h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=OkonoWil&count_private=true&show_icons=true&theme=radical&layout=compact" alt="AnhellO :: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=OkonoWil&show_icons=true&theme=radical&layout=compact" alt="AnhellO :: Profile Stats" /></p>
 
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=OkonoWil&theme=radical" alt="OkonoWil" /></p>
 <p align="center"><img src="https://tenor.com/view/silicon-valley-gif-5518465.gif" alt="" height="300" width="500"></p>
 
 <h2 align="center">GitHub Activity Graph</h2>
 
-[![OkonoWil's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=OkonoWil&bg_color=0d1117&color=c9c9c9&line=4c779e&point=a8e5ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![OkonoWil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=OkonoWil)](https://github.com/OkonoWil/OkonoWil)
 <br />
