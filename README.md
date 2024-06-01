@@ -167,9 +167,10 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=OkonoWil&show_icons=true&theme=radical&layout=compact" alt="OkonoWil :: Profile Stats" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=OkonoWil&theme=radical" alt="OkonoWil" /></p>
-<p align="center"><img src="https://tenor.com/view/silicon-valley-gif-5518465.gif" alt="" height="300" width="500"></p>
 
 <h2 align="center">GitHub Activity Graph</h2>
 
 [![OkonoWil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=OkonoWil&bg_color=radical&color=fff&point=fff)](https://github.com/OkonoWil/OkonoWil)
 <br />
+<h2 align="center">I stay focused</h2>
+<p align="center"><img src="https://tenor.com/view/silicon-valley-gif-5518465.gif" alt="" height="300" width="500"></p>
