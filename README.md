@@ -16,7 +16,7 @@
 [![wakatime](https://wakatime.com/badge/user/b702d51b-71db-4fcd-8568-9432bc144ae7.svg)](https://wakatime.com/@b702d51b-71db-4fcd-8568-9432bc144ae7)
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
-- 🔭 I’m currently working on [Vantaart](https://vantaart.com/), [Afrikalyrics](https://afrikalyrics.com/), [Showbook](https://showbook.africa/),  [EventPass](https://eventpass.jeunesmentors.com/)
+- 🔭 I’m currently working on [Vantaart](https://vantaart.com/), [Afrikalyrics](https://afrikalyrics.com/), [Showbook](https://showbook.africa/),  [EventPass](https://eventpass.jeunesmentors.com/) and [Hetolearn](https://hetolearn.com)
 
 - 🌱 I’m currently learning **Flutter, Vue, Nuxt, Laravel**
 
