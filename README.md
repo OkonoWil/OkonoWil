@@ -95,7 +95,7 @@
     </td>
     <td align="center" width="96">
         <a href="#react">
-            <img src="https://seeklogo.com/images/A/alpine-js-logo-21F4169EAB-seeklogo.com.png" width="48"
+            <img src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" width="48"
                 height="48" alt="react" />
         </a>
         <br>React
