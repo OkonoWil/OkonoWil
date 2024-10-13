@@ -18,7 +18,7 @@
 
 - 🔭 I’m currently working on [Vantaart](https://vantaart.com/), [Afrikalyrics](https://afrikalyrics.com/), [Showbook](https://showbook.africa/),  [EventPass](https://eventpass.jeunesmentors.com/) and [Hetolearn](https://hetolearn.com)
 
-- 🌱 I’m currently learning **Flutter, Vue, Nuxt, Laravel**
+- 🌱 I’m currently learning **Laravel, Vuejs, Nuxt, React, Flutter**
 
 - 👯 I’m looking to collaborate on solving problems with software
 
