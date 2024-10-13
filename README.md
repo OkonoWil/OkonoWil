@@ -94,11 +94,11 @@
         <br>Livewire
     </td>
     <td align="center" width="96">
-        <a href="#alpinejs">
+        <a href="#react">
             <img src="https://seeklogo.com/images/A/alpine-js-logo-21F4169EAB-seeklogo.com.png" width="48"
-                height="48" alt="alpinejs" />
+                height="48" alt="react" />
         </a>
-        <br>Alpine JS
+        <br>React
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
