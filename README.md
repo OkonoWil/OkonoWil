@@ -18,7 +18,7 @@
 
 - 🔭 I’m currently working on [Icicine](https://icicine.com/) and [Eventpass](https://eventpass.world)
 
-- 🌱 I’m currently learning **React, Flutter**
+- 🌱 I’m currently learning **Aws, Agent AI building**
 
 - 👯 I’m looking to collaborate on solving problems with software
 
