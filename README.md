@@ -26,7 +26,7 @@
 
 - 💬 Ask me about **Laravel, APIs, PHP**
 
-- 📫 How to reach me <a href="mailto:okonowil@gmail.com">okonowil@gmail.com</a>
+- 📫 How to reach me <a href="mailto:me@okonowil.dev">me@okonowil.dev</a>
 
 - ⚡ From Cameroon
 
